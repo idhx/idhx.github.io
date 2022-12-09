@@ -60,3 +60,8 @@ pygmentscodefencesguesssyntax = true
   name = "Publications"
   weight = 2
   url = "publications/"
+
+[[menu.main]]
+  name = "Projects"
+  weight = 2
+  url = "projects/"
