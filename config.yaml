@@ -1,4 +1,37 @@
-baseURL : 'http://example.org/'
-languageCode : 'en-us'
-title : 'My New Hugo Site'
+baseURL : "http://ivandx.com/"
+languageCode : "en-us"
+title : "Ivan Deschenaux"
 theme: "PaperMod"
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+    disableXML: true
+    minifyOutput: true
+
+params:
+    disableThemeToggle: true
+    title : "Ivan Deschenaux"
+    description : "Ivan Deschenaux - Cognitive Anthropologist and Research Methods Enthusiast"
+    keywords: [Ivan, Deschenaux, personal, anthropology, anthropologist, methodology, methodologist, research methods]
+
+    profileMode:
+        enabled: true
+        title: "Ivan Deschenaux" # optional default will be site title
+        subtitle: "Cognitive Anthropologist and Research Methods Enthusiast"
+        imageUrl: "images/ivan.jpg" # optional
+        imageTitle: "Ivan Deschenaux" # optional
+        imageWidth: 300 # custom size
+        imageHeight: 300 # custom size
+        buttons:
+            - name: Contact me
+              url: "contact/"
+
+    socialIcons:
+        - name: googlescholar
+          url: "https://scholar.google.com/citations?user=m0MhHMkAAAAJ"
+        - name: orcid
+          url: "https://orcid.org/0000-0002-7737-6255"
