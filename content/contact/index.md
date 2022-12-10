@@ -1,6 +1,5 @@
 ---
 title: "Contact"
-draft: true
 ---
 
 ## General enquiries, invitations, etc.
