@@ -28,6 +28,8 @@ params:
     imageWidth: 300 # custom size
     imageHeight: 300 # custom size
     buttons:
+      - name: About me
+        url: "about/"
       - name: Contact me
         url: "contact/"
 
@@ -54,6 +56,10 @@ params:
 
 menu:
   main:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 10
     - identifier: contact
       name: Contact
       url: /contact/
