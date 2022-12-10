@@ -13,6 +13,7 @@ minify:
   minifyOutput: true
 
 params:
+  defaultTheme: auto
   disableThemeToggle: true
   title : "Ivan Deschenaux"
   description : "Ivan Deschenaux - Cognitive Anthropologist and Research Methods Enthusiast"
@@ -50,3 +51,10 @@ params:
     favicon32x32:  "/favico/favicon-32x32.png"
     apple_touch_icon:  "/favico/apple-touch-icon.png"
     # safari_pinned_tab:  "/favico/safari-pinned-tab.svg"
+
+menu:
+  main:
+    - identifier: contact
+      name: Contact
+      url: /contact/
+      weight: 20
