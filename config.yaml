@@ -33,14 +33,14 @@ params:
   socialIcons:
     - name: email
       url: "mailto:i.deschenaux@lse.ac.uk"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/ivandeschenaux/"
     - name: github
       url: "https://github.com/idhx"
     - name: googlescholar
       url: "https://scholar.google.com/citations?user=m0MhHMkAAAAJ"
     - name: orcid
       url: "https://orcid.org/0000-0002-7737-6255"
-    - name: linkedin
-      url: "https://www.linkedin.com/in/ivandeschenaux/"
 
   assets:
     # disableHLJS: true # to disable highlight.js
