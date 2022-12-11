@@ -33,3 +33,6 @@ _Ivan Deschenaux planting rice with local residents during fieldwork in Nepal._
 | 2012 | MSc Social Anthropology (Learning and Cognition), London School of Economics |
 | 2010 | BA Philosophy, University of Fribourg, Switzerland                           |
 
+## Publications
+
+[List of publications](/publications/)

@@ -60,7 +60,11 @@ menu:
       name: About
       url: /about/
       weight: 10
+    - identifier: publications
+      name: Publications
+      url: /publications/
+      weight: 20
     - identifier: contact
       name: Contact
       url: /contact/
-      weight: 20
+      weight: 30
