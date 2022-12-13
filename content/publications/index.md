@@ -1,6 +1,5 @@
 ---
 title: "Publications"
-date: 2022-12-11T13:34:57Z
 ---
 ## Under review
 
