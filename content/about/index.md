@@ -2,6 +2,10 @@
 title: "About"
 ---
 
+## CV
+
+[CV in pdf format](/cv.pdf) 
+
 ## Research area
 
 I study social norms, their origin, and how they change over time. I do this by attending to a combination of social dynamics and evolved aspects of human psychology. More recently, I have also begun thinking of norms themselves as subject to selective pressures and displaying other evolutionary properties. 
