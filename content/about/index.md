@@ -4,7 +4,7 @@ title: "About"
 
 ## CV
 
-[CV in pdf format](/cv.pdf) 
+[CV in pdf format](https://github.com/idhx/cv/releases/latest/download/resume.pdf)
 
 ## Research area
 
