@@ -1,0 +1,22 @@
+baseURL = "https://ivandx.com"
+languageCode = "en"
+DefaultContentLanguage = "en"
+title = "Ivan Deschenaux"
+
+summarylength = 10
+enableEmoji = true
+enableRobotsTXT = true
+
+pygmentsUseClasses = true   
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+
+# Localized dates requires Hugo version 0.87.0
+localizedDates = true
+
+[module]
+  # uncomment line below for temporary local development of module
+  # replacements = "github.com/lxndrblz/anatole -> ../../anatole"
+  [[module.imports]]
+    path = "github.com/lxndrblz/anatole"
+    disable = false
