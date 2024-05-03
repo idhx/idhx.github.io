@@ -5,9 +5,21 @@
   url = "/"
 
   [[main]]
+  name = "Publications"
+  identifier = "publications"
+  weight = 200
+  url = "/publications/"
+
+  [[main]]
+  name = "CV"
+  identifier = "cv"
+  weight = 300
+  url = "/cv/"
+
+  [[main]]
   name = "Contact"
   identifier = "contact"
-  weight = 200
+  weight = 400
   url = "/contact/"
     
 
