@@ -1,0 +1,13 @@
+  [[main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[main]]
+  name = "Contact"
+  identifier = "contact"
+  weight = 200
+  url = "/contact/"
+    
+

@@ -1,4 +1,4 @@
-title = "Ivan Deschenaux's"
+title = "Ivan Deschenaux"
 author = "Ivan Deschenaux"
 #copyright = "2020-2021"
 description = """
@@ -9,14 +9,14 @@ keywords = ""
 favicon = "favicons/"
 
 contentratio = 0.6
-hidesidebar = true
+hidesidebar = false
 
 # example ["css/custom.css"]
 customCss = ["css/academicons.css", "css/brands.css"]
 
 # # example ["js/custom.js"]
 # customJs = [] 
-# mainSections = ["post"]
+mainSections = ["post"]
 # images = ["images/site-feature-image.png"]
 # doNotLoadAnimations = false
 # # Form Spree Contact Form
@@ -39,8 +39,6 @@ customCss = ["css/academicons.css", "css/brands.css"]
 
 
 reversepagetitle = true # When set to 'true', the Window Title will be reversed to 'Title | Author' instead of the default 'Author | Title'
-
-# hidesidebar = true
 
 [simpleAnalytics]
 # enable = true
