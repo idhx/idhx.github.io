@@ -1,3 +1,3 @@
 Source files for my personal website.
 
-Uses [Hugo](https://gohugo.io/) with the [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme.
+Uses [Hugo](https://gohugo.io/) with the [Anatole](https://github.com/lxndrblz/anatole) theme.
