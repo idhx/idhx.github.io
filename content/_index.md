@@ -6,6 +6,8 @@ title: About
 
 I'm a social anthropologist with a strong interdisciplinary outlook. My research focuses on social norms, how they change over time, and what makes people follow or violate them. I also try to understand how social inequality is reproduced through everyday interactions.
 
+I'm currently a member of the [rep²si](https://rep2si.github.io/) project.
+
 ## Regional expertise
 
 I have been conducting fieldwork in Nepal for over 10 years. My primary interests are caste and caste-based discrimination. I am particularly keen to understand whether and how social norms surrounding caste are changing in this country.

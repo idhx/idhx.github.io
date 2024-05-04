@@ -11,21 +11,28 @@
   url = "/publications/"
 
   [[main]]
+  name = "Grants"
+  identifier = "grants"
+  weight = 300
+  url = "/grants/"
+
+
+  [[main]]
   name = "Education"
   identifier = "education"
-  weight = 300
+  weight = 400
   url = "/education/"
 
   [[main]]
   name = "CV"
   identifier = "cv"
-  weight = 400
+  weight = 500
   url = "/cv/"
 
   [[main]]
   name = "Contact"
   identifier = "contact"
-  weight = 500
+  weight = 600
   url = "/contact/"
     
 
