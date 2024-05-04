@@ -1,3 +1,7 @@
+---
+title: Education
+---
+
 | Year   &nbsp; &nbsp; &nbsp; &nbsp;| Degree                                                                       |
 |:-----|:-----------------------------------------------------------------------------|
 | 2019 | PhD Social Anthropology, London School of Economics                          |
