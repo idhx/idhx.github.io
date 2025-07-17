@@ -3,7 +3,7 @@ author = "Ivan Deschenaux"
 #copyright = "2020-2021"
 description = """
 Postdoctoral Research Officer
-Department of Methodology, London School of Economics  
+Department of Methodology, London School of Economics
 """
 profilePicture = "images/avatar.jpg"
 keywords = ""
@@ -16,10 +16,10 @@ hidesidebar = false
 customCss = ["css/academicons.css", "css/brands.css"]
 
 # # example ["js/custom.js"]
-# customJs = [] 
+# customJs = []
 mainSections = ["post"]
 # images = ["images/site-feature-image.png"]
-# doNotLoadAnimations = false
+doNotLoadAnimations = true
 # # Form Spree Contact Form
 # #contactFormAction = "https://formspree.io/f/your-form-hash-here"
 # #contactFormReCaptcha = "your-site-key-here"
